@@ -1,1 +1,1 @@
-# npm-package-template
+# googlemaps-api-loder
